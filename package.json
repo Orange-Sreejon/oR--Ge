@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "pug": "^3.0.2"
+  }
+}
